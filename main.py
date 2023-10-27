@@ -4,9 +4,6 @@ import os
 import streamlit as st
 import streamlit.components.v1 as components
 
-
-# TODO: ADD min 30Sec and max 90sec limit for answering a question
-
 st.title("🦜SpeakSmartAI")
 
 st.sidebar.markdown("# Setup\n")
